@@ -13,4 +13,4 @@ A responsive packing list application with item tracking and statistics.
 - 📊 Statistics on packing progress
 - 📱 Fully responsive
 
-                                     ## <Happy Packing! 🧹🧦👕>
+<p align="center"> <br> <strong>Happy Packing! 🧹🧦👕</strong> <br> <br> <img src="https://img.icons8.com/color/96/000000/suitcase.png" alt="Suitcase icon" width="50"/> </p> ```
